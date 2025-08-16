@@ -4,7 +4,7 @@ An intelligent, real-time system developed for electric vehicles to enhance road
 
 ![final](./Artificial%20Intelligence/images/final.jpg)
 
-### 📌 Core Features & ADAS Functions
+### 📌 Core Features & ADAS Functions:
 
 - 🔄 V2V Communication using ESP-NOW protocol for real-time vehicle data exchange. 
 - 🔐 AES Encryption for secure and reliable communication. 
